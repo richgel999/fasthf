@@ -14,6 +14,8 @@ We decided to also make the source code of our C++ implementation of Huffman cod
 
 ## License
 
+From the code:
+
 ```
 // The only purpose of this program is to demonstrate the basic principles   -
 // of Huffman codes. It is provided as is, without any express or implied    -
