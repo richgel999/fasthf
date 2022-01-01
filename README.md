@@ -8,6 +8,6 @@ http://web.archive.org/web/20100610080858/http://www.cipr.rpi.edu/~said/FastAC.h
 
 His Arithmetic coding example (FastAC) is [here](https://github.com/richgel999/FastAC).
 
-FastHF: Static and Adaptive Huffman Coding
+"FastHF: Static and Adaptive Huffman Coding
 
-We decided to also make the source code of our C++ implementation of Huffman coding publicly available for education. Its design objectives and interface (and documentation) are very similar to FastAC. Thus, except for the lack of binary coders, porting from one to the other should be quite easy. In addition, they are completely independent, i.e., both can be used in the same compression program.
+We decided to also make the source code of our C++ implementation of Huffman coding publicly available for education. Its design objectives and interface (and documentation) are very similar to FastAC. Thus, except for the lack of binary coders, porting from one to the other should be quite easy. In addition, they are completely independent, i.e., both can be used in the same compression program."
