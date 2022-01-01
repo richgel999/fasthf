@@ -1,3 +1,5 @@
+# FastHF - Amir Said's Huffman coding library, example code, and documentation
+
 This is a clone of Amir Said's "FastHF" Huffman coding example. From his web page (which has been down for years now):
 
 http://web.archive.org/web/20100610080858/http://www.cipr.rpi.edu/~said/FastAC.html
